@@ -1,64 +1,56 @@
-# Demo Video Explanation
+# Flora's Garden
 
-This project includes 3 demo videos (`display1`, `display2`, `display3`).  
-Due to GitHub file size limits and network transfer speed requirements, these videos have been **heavily compressed**, resulting in noticeable quality loss.  
+Flora's Garden is a Unity garden scene project. This repository contains the Windows build, screenshots, and compressed demo videos.
 
-**For the actual, uncompressed quality, please refer to the corresponding demo screenshots** (`ScreenShot1`, `ScreenShot2`, `ScreenShot3`).
-
----
-
-## File Mapping
-
-| Compressed Video | Actual Quality Screenshot |
-| ---------------- | ------------------------- |
-| `display1`       | `ScreenShot1`             |
-| `display2`       | `ScreenShot2`             |
-| `display3`       | `ScreenShot3`             |
-
----
-
-## Detailed Preview (Recommended)
-
-Use the embedded video player below to preview the compressed videos and compare them with the screenshots.  
-> ✅ The screenshots show the actual uncompressed quality.
+## Preview
 
 ### Demo 1
 
-**Compressed video (quality reduced)**  
-<video width="640" height="360" controls>  
-  <source src="display1.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>  
+[Watch demo video 1](Display%20video1.mp4)
 
-**Reference: actual quality**  
-![Actual quality screenshot 1](ScreenShot1.png)  
-
----
+![Flora's Garden screenshot 1](screenShot1.png)
 
 ### Demo 2
 
-**Compressed video (quality reduced)**  
-<video width="640" height="360" controls>  
-  <source src="display2.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>  
+[Watch demo video 2](Display%20video2.mp4)
 
-**Reference: actual quality**  
-![Actual quality screenshot 2](ScreenShot2.png)  
-
----
+![Flora's Garden screenshot 2](screenShot2.png)
 
 ### Demo 3
 
-**Compressed video (quality reduced)**  
-<video width="640" height="360" controls>  
-  <source src="display3.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>  
+[Watch demo video 3](Display%20video3.mp4)
 
-**Reference: actual quality**  
-![Actual quality screenshot 3](ScreenShot3.png)  
+![Flora's Garden screenshot 3](screenShot3.png)
 
----
+## Videos
 
-> **Note**: If the actual video or screenshot filenames include extensions (e.g., `.mp4`, `.png`), please update the paths in this file accordingly.
+The demo videos are compressed for GitHub upload size and loading speed. The screenshots show clearer visual quality than the compressed videos.
+
+| Demo | Video | Screenshot |
+| --- | --- | --- |
+| 1 | [Display video1.mp4](Display%20video1.mp4) | [screenShot1.png](screenShot1.png) |
+| 2 | [Display video2.mp4](Display%20video2.mp4) | [screenShot2.png](screenShot2.png) |
+| 3 | [Display video3.mp4](Display%20video3.mp4) | [screenShot3.png](screenShot3.png) |
+
+## Run
+
+Download or clone the repository, then run:
+
+```text
+Flora Garden.exe
+```
+
+Keep the following Unity runtime files and folders in the same directory as the executable:
+
+- `Flora Garden_Data/`
+- `MonoBleedingEdge/`
+- `D3D12/`
+- `UnityPlayer.dll`
+- `UnityCrashHandler64.exe`
+
+## Repository Contents
+
+- `Flora Garden.exe` - Windows executable
+- `Flora Garden_Data/` - Unity game data
+- `Display video1.mp4`, `Display video2.mp4`, `Display video3.mp4` - compressed demo videos
+- `screenShot1.png`, `screenShot2.png`, `screenShot3.png` - preview screenshots
