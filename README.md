@@ -1,36 +1,24 @@
 # Flora's Garden
 
-Flora's Garden is a Unity garden scene project. This repository contains the Windows build, screenshots, and compressed demo videos.
+Flora's Garden is a Unity game demo set in a garden environment. This repository contains the Windows build, a three-part gameplay demo video, and screenshots that show the visual quality of the game.
 
-## Preview
+## Gameplay Demo
 
-### Demo 1
+The gameplay demo is split into three consecutive video files because of GitHub upload and loading limits. Watch them in order for the full demo.
 
-[Watch demo video 1](Display%20video1.mp4)
+1. [Gameplay demo - Part 1](Display%20video1.mp4)
+2. [Gameplay demo - Part 2](Display%20video2.mp4)
+3. [Gameplay demo - Part 3](Display%20video3.mp4)
 
-![Flora's Garden screenshot 1](screenShot1.png)
+The videos are compressed for repository size. For a clearer look at the game's visual quality, see the screenshots below.
 
-### Demo 2
+## Visual Quality Screenshots
 
-[Watch demo video 2](Display%20video2.mp4)
+![Flora's Garden visual quality screenshot 1](screenShot1.png)
 
-![Flora's Garden screenshot 2](screenShot2.png)
+![Flora's Garden visual quality screenshot 2](screenShot2.png)
 
-### Demo 3
-
-[Watch demo video 3](Display%20video3.mp4)
-
-![Flora's Garden screenshot 3](screenShot3.png)
-
-## Videos
-
-The demo videos are compressed for GitHub upload size and loading speed. The screenshots show clearer visual quality than the compressed videos.
-
-| Demo | Video | Screenshot |
-| --- | --- | --- |
-| 1 | [Display video1.mp4](Display%20video1.mp4) | [screenShot1.png](screenShot1.png) |
-| 2 | [Display video2.mp4](Display%20video2.mp4) | [screenShot2.png](screenShot2.png) |
-| 3 | [Display video3.mp4](Display%20video3.mp4) | [screenShot3.png](screenShot3.png) |
+![Flora's Garden visual quality screenshot 3](screenShot3.png)
 
 ## Run
 
@@ -52,5 +40,5 @@ Keep the following Unity runtime files and folders in the same directory as the 
 
 - `Flora Garden.exe` - Windows executable
 - `Flora Garden_Data/` - Unity game data
-- `Display video1.mp4`, `Display video2.mp4`, `Display video3.mp4` - compressed demo videos
-- `screenShot1.png`, `screenShot2.png`, `screenShot3.png` - preview screenshots
+- `Display video1.mp4`, `Display video2.mp4`, `Display video3.mp4` - consecutive compressed gameplay demo videos
+- `screenShot1.png`, `screenShot2.png`, `screenShot3.png` - visual quality screenshots
