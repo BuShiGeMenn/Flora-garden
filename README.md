@@ -6,9 +6,10 @@ Flora's Garden is a Unity game demo set in a garden environment. This repository
 
 The gameplay demo is split into three consecutive video files because of GitHub upload and loading limits. Watch them in order for the full demo.
 
-1. [Gameplay demo - Part 1](Display%20video1.mp4)
-2. [Gameplay demo - Part 2](Display%20video2.mp4)
-3. [Gameplay demo - Part 3](Display%20video3.mp4)
+1. [Gameplay demo - Part 1](Display%20video0.mp4)
+1. [Gameplay demo - Part 2](Display%20video1.mp4)
+2. [Gameplay demo - Part 3](Display%20video2.mp4)
+3. [Gameplay demo - Part 4](Display%20video3.mp4)
 
 The videos are compressed for repository size. For a clearer look at the game's visual quality, see the screenshots below.
 
